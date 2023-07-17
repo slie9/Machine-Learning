@@ -6,8 +6,6 @@ Project Description: In this project, you will build a machine learning model to
 
 Dataset Details: The data set contains 200 records of customers.
 
-Datasets Location: Canvas -> Modules -> Week 14 -> Datasets -> "customers.csv".
-
 Tasks:
 
 1) Data Exploration and Preprocessing: You will explore the data set, handle missing values, perform feature engineering, and preprocess the data to get it ready for model building.
